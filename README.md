@@ -34,7 +34,7 @@ This is a problem for several reasons:
   * It could be possible to create artificial false positives by "tricking" an AI to repeat any block of text (thus making it "generated" by that AI).
     * Possible solution is to match request text to both the AI output as well as user input to see if the text shows up in the user message first.
     * This is a complicated solution and may not be easy to implement.
-    * A more water-tight solution is to also return a date of generation to show when text was generated with a given service. This would allow cross referencing with article publishing dates, homework submissions, etc. to clear up confusion.
+    * A more water-tight solution is to also return a date of generation to show when text was generated with a given service. This allows cross referencing with article publishing dates, homework submission times, etc. to clear up confusion.
 
 
 Last Updated: 12/28/2023
