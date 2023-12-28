@@ -31,6 +31,10 @@ This is a problem for several reasons:
   * Short commonly used text samples may generate false positives.
     * Possible solution is to only check larger bodies of text for plagiarism.
     * Data can be cross referenced with other public domain material e.g. the Bible which is often marked as plagiarism by current "AI Detection" systems.
+  * It could be possible to create artificial false positives by "tricking" an AI to repeat any block of text (thus making it "generated" by that AI).
+    * Possible solution is to match request text to both the AI output as well as user input to see if the text shows up in the user first.
+    * This is a complicated solution.
+    * Another solution is to return a date of generation to show when text was generated with a given service. This would allow cross referencing with article publishing dates, homework submissions, etc. to clear up confusion.
 
 
 Last Updated: 12/28/2023
