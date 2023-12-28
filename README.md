@@ -1,4 +1,4 @@
-# AI Transparency Proposal
+# AI Source Transparency Proposal
 Proposal to eliminate modes of model collapse, information source uncertainty, and plagiarism using simple text lookup methods and standard API's. 
 
 ## Background: The Problem
