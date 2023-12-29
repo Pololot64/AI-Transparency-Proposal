@@ -43,3 +43,5 @@ Last Updated: 12/28/2023
 
 
 The term "AI" is used loosely in this document to refer to text based generative AI models e.g. Chat GPT, Copilot, Grok.
+
+This proposal is not meant as a technical one-size-fits-all solution. It is a jumping off point for more dialog to find simple solutions to complex problems.
